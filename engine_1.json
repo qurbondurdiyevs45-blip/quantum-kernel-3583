@@ -1,0 +1,15 @@
+{
+  "name": "quantum-kernel-3583",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 8634,
+    "createdAt": "2026-07-16T09:33:19.443Z"
+  }
+}
